@@ -22,5 +22,4 @@
 [![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=fff)](https://www.google.com/chrome/)
 [![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com.cn/macbook-air/)
 
-![Jackson-wjx](https://github-readme-stats.vercel.app/api?username=Jackson-wjx)
 ![Jackson-wjx](https://komarev.com/ghpvc/?username=Jackson-wjx&label=Visitors)
